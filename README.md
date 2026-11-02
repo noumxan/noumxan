@@ -92,7 +92,7 @@ This experience strengthened my understanding of engineering in production envir
 
 **HackerRank Orchestrate 2026**
 
-Ranked **595th out of 4,094 participants** in a 24-hour AI agent development challenge. Developed an evidence-driven data deletion auditing prototype under time constraints.
+Ranked **225th out of 4,094 participants** in a 24-hour AI agent development challenge. Developed an evidence-driven data deletion auditing prototype under time constraints.
 
 **Microsoft CoSafe AI Hackathon — Top 5 Finalist**
 
