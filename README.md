@@ -39,14 +39,15 @@ An evidence-driven auditing system developed for HackerRank Orchestrate 2026, in
 
 The project explores the distinction between deletion requests and verifiable evidence of deletion, with an emphasis on auditability, privacy and transparent decision-making.
 
-### Behind the Bite
-**Next.js | TypeScript | Full-Stack Development | Interactive UX**
+### Judge the Agent — AI Reliability & Evaluation Framework
 
-[View Repository](https://github.com/noumxan/behind-the-bite)
+Python | LLM Evaluation | AI Security | Automated Testing
 
-A full-stack interactive digital experience exploring food products, brand storytelling and user engagement.
+View Repository https://github.com/noumxan/friendly-meetup-hackathon
 
-Built around a modern web application architecture, with an emphasis on modular interfaces, responsive design, structured content delivery and accessible user experiences.
+An evaluation and assurance framework developed for the Friendly Data Meetup hackathon, assessing the reliability of an AI-powered customer support agent across 25 scenarios.
+
+Built a reproducible testing harness combining deterministic Python assertions with LLM-as-judge evaluation, adversarial test cases and tool-level privacy safeguards. A verified privacy-focused change improved benchmark pass rates from 60% to 72%, resolving three previously failing privacy cases without regressions in the paired comparison.
 
 ### Bettr
 **TypeScript | Web Applications | API Integration**
